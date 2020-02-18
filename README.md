@@ -4,7 +4,7 @@ This is a part of assignments for the course "Computational Heat & Fluid Flow (M
 * email: nithin.adidela.16003@iitgoa.ac.in
 * Tested with python 3.7.5 on 12 February 2020
 
-#Solution of the Poisson equation within the domain [0,1] using
+# Solution of the Poisson equation within the domain [0,1] using
 
 * Discretization is done both using second order Finite Difference schemes
 
@@ -12,12 +12,12 @@ This is a part of assignments for the course "Computational Heat & Fluid Flow (M
 
 * The resulting linear algebraic system is solved using 
 
-# TDMA (Thomas algorithm)
+## TDMA (Thomas algorithm)
 
-# Gauss-Jacobi algorithm
+## Gauss-Jacobi algorithm
 
-# Gauss-Seidel algorithm
+## Gauss-Seidel algorithm
 
-# Successive Over-Relaxation method
+## Successive Over-Relaxation method
 
 
